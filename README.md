@@ -9,3 +9,4 @@
  - rpi-rf python module: https://pypi.python.org/pypi/rpi-rf
  - HomeAssistant and rpi switch: https://home-assistant.io/components/switch.rpi_rf/
  - 433 sensors and homeassistant: https://community.home-assistant.io/t/how-to-make-use-of-generic-433mhz-sensors/1215/45
+ - Components connection: http://randomnerdtutorials.com/rf-433mhz-transmitter-receiver-module-with-arduino/
