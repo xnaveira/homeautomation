@@ -8,3 +8,4 @@
  - Rpi and 433: https://www.raspberrypi.org/forums/viewtopic.php?f=37&t=66946
  - rpi-rf python module: https://pypi.python.org/pypi/rpi-rf
  - HomeAssistant and rpi switch: https://home-assistant.io/components/switch.rpi_rf/
+ - 433 sensors and homeassistant: https://community.home-assistant.io/t/how-to-make-use-of-generic-433mhz-sensors/1215/45
